@@ -2,7 +2,7 @@
 
 
 
-> Um simples exemplo da utilização do sicialite usando o provider do github.
+> Um simples exemplo da utilização do socialite usando o provider do github.
 
 #### Arquivos alterados:
 * .env.example
